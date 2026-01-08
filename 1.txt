@@ -1,1 +1,0 @@
-this FIle FOlder containts the code for the Glasses to convert the information into images/videos for the AI/ML Model to analyze and solve
